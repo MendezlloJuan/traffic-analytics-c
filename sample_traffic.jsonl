@@ -1,0 +1,6 @@
+{"timestamp": 1720000000.000, "bytes": 1500, "latency_ms": 12.4, "direction": "in"}
+{"timestamp": 1720000000.250, "bytes": 900, "latency_ms": 15.1, "direction": "out"}
+{"timestamp": 1720000000.500, "bytes": 1420, "latency_ms": 18.0, "direction": "in"}
+{"timestamp": 1720000001.000, "bytes": 1200, "latency_ms": 14.2, "direction": "out"}
+{"timestamp": 1720000001.500, "bytes": 2000, "latency_ms": 22.7, "direction": "in"}
+{"timestamp": 1720000002.000, "bytes": 600, "latency_ms": 11.9, "direction": "out"}

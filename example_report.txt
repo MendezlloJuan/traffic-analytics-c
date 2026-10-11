@@ -1,0 +1,22 @@
+NETWORK TRAFFIC SUMMARY
+=======================
+Input file: sample_traffic.jsonl
+Valid records: 6
+Skipped records: 0
+Observed duration: 2.000 seconds
+Total traffic: 7620 bytes (0.007 MiB)
+Inbound bytes: 4920
+Outbound bytes: 2700
+Average throughput over observed duration: 0.030480 Mbps
+Latency samples: 6
+Mean latency: 15.717 ms
+Minimum latency: 11.900 ms
+Maximum latency: 22.700 ms
+95th percentile latency: 22.700 ms
+
+NOTES
+-----
+- Throughput is total bytes times 8 divided by elapsed time.
+- Latency values are illustrative, not measurements from a live network.
+- This report analyzes metadata only; it does not identify video content or users.
+- Use only on captures/logs you are authorized to analyze.
